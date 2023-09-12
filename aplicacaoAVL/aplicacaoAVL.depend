@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1694008652 source:c:\users\a_alc\onedrive\Área de trabalho\matérias\estruturadados\proj.c\aplicacaoavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	"aplicacaoAVL.h"
+
+1694032350 c:\users\a_alc\onedrive\Área de trabalho\matérias\estruturadados\proj.c\aplicacaoavl\aplicacaoavl.h
+	<stdio.h>
+
+1694008702 source:c:\users\a_alc\onedrive\Área de trabalho\matérias\estruturadados\proj.c\aplicacaoavl\aplicacaoavl.c
+	"aplicacaoAVL.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+

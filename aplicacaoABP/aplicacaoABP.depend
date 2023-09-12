@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1693425637 source:c:\users\a_alc\onedrive\Área de trabalho\matérias\estruturadados\proj.c\aplicacaoabp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"aplicacaoABP.h"
+
+1693773464 c:\users\a_alc\onedrive\Área de trabalho\matérias\estruturadados\proj.c\aplicacaoabp\aplicacaoabp.h
+	<stdio.h>
+
+1693773463 source:c:\users\a_alc\onedrive\Área de trabalho\matérias\estruturadados\proj.c\aplicacaoabp\aplicacaoabp.c
+	"aplicacaoABP.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
